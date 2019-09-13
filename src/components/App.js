@@ -33,7 +33,7 @@ class App extends Component {
   render() {
     return (
      <div className="App">
-       <img src="../reminder.png" alt='reminder' />
+       <img src="https://www.pngfind.com/pngs/b/489-4890896_repair-icon-png.png" alt='reminder' />
        <div className="reminder-title">
            <h2>What Should U Do ?</h2>
        </div>
