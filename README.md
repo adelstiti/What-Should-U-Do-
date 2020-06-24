@@ -2,8 +2,9 @@
 
 This project was developed to improve knowledge.
 
-You can read more about me on: [LinkedIn](https://www.linkedin.com/in/adel-stiti-9ba760158/).
+Check out the demo : [https://adelstiti.github.io/What-Should-U-Do-/](https://adelstiti.github.io/What-Should-U-Do-/)
 
+You can read more about me on: [LinkedIn](https://www.linkedin.com/in/adel-stiti-9ba760158/).
 
 **Screenshot**
 
